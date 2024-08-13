@@ -5,5 +5,3 @@ HelloWorld!!
 HelloWorld!!
 HelloWorld!!
 HelloWorld!!
-
-브렌치 B작업
